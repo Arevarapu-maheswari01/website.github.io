@@ -1,0 +1,29 @@
+.bgimg{
+    background-image: url(https://i.pinimg.com/736x/eb/07/fb/eb07fbadd098d0c1b4455daae8025210.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.layoutcard{
+    background-color:lightyellow;
+    height: 150px;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+}
+.Heading{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.para{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.lastline{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
